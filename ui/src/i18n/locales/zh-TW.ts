@@ -121,5 +121,6 @@ export const zh_TW: TranslationMap = {
     zhTW: "繁體中文 (繁體中文)",
     ptBR: "Português (巴西葡萄牙語)",
     de: "Deutsch (德語)",
+    bnIN: "বাংলা (孟加拉語)",
   },
 };
